@@ -1,6 +1,6 @@
 # MagicSub
 AI-Powered Subtitle Translator
-# Subtitle Translator with OpenAI GPT
+
 
 This script provides a simple tool for translating SRT subtitle files using the OpenAI GPT-3.5-turbo API. It supports merging short subtitle segments, ensuring translations are coherent, and processing subtitles efficiently with retry logic for API failures.
 
